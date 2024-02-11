@@ -2,6 +2,15 @@
 
 ########################## LOKAL ##########################
 
+http://iptvtree.net:8080/F14995/a84c0963/264778
+#EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="Siaran",Crime+ Investigation
+http://iptvtree.net:8080/F14995/a84c0963/165052
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Siaran",beIN Sports 1
+http://iptvtree.net:8080/F14995/a84c0963/165105
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="Siaran",beIN Sports 3
+http://iptvtree.net:8080/F14995/a84c0963/298506
+
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Siaran",ANIMAL PLANET
 http://iptvtree.net:8080/F14995/a84c0963/157532
 
