@@ -209,6 +209,16 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 ########################## CHINA ##########################
 
+#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/FiTPyCa.png",CCTV-3 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+
+#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV???????-5+ ????
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV???????-5+ ????
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV???????-5+ ????
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+
 #EXTINF:-1 group-title="China",????
 http://121.31.30.90:8085/ysten-business/live/shenzhenstv/1.m3u8
 #EXTINF:-1 group-title="China",????
