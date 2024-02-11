@@ -2,8 +2,11 @@
 
 ########################## LOKAL ##########################
 
-#EXTINF:-1 tvg-id="" tvg-name="Siaran" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Siaran",ANIMAL PLANET
 http://iptvtree.net:8080/F14995/a84c0963/157532
+
+http://iptvtree.net:8080/F14995/a84c0963/247447
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Siaran",Asian Food Network
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
