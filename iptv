@@ -257,8 +257,21 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 ########################## CHINA ##########################
 
+#EXTINF:-1 tvg-id="" tvg-name="MY070:TVB E-NEWS" tvg-logo="" group-title="China",MY070:TVB E-NEWS
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71043
+#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="" group-title="China",MY071:TVB XING HE HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71044
+#EXTINF:-1 tvg-id="" tvg-name="MY072:TVBS ASIA HD" tvg-logo="" group-title="China",MY072:TVBS ASIA HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71045
+
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8 
-#EXTINF:-1 group-title="China" tvg-logo="",cctv4
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="China",CCTV16
+https://s.id/cctv16_shareext-ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="China",MY075:CCTV4 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71047
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
