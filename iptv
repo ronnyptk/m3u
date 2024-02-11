@@ -209,41 +209,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 ########################## CHINA ##########################
 
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/FiTPyCa.png",CCTV-3 (Opt-1)
-http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-
-#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV???????-5+ ????
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV???????-5+ ????
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV???????-5+ ????
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-
-#EXTINF:-1 group-title="China",????
-http://121.31.30.90:8085/ysten-business/live/shenzhenstv/1.m3u8
-#EXTINF:-1 group-title="China",????
-http://121.31.30.90:8085/ysten-business/live/shenzhenstv/yst.m3u8
-
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/LcJZVV5.png",Xuzhou TV 1 Shanghai (Opt-1)
-http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/LcJZVV5.png",Xuzhou TV 1 Shanghai (Opt-2)
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/LcJZVV5.png",Xuzhou TV 2 Shanghai
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/LcJZVV5.png",Xuzhou TV 3 Shanghai
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/LcJZVV5.png",Xuzhou TV 4 Shanghai
-http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/PDzWK3L.png",Yushu TV Jilin (Opt-2)
-http://stream.zhystv.com/ysyt/sd/live.m3u8
-
-EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/vt2s5Tk.png",Phoenix (Opt-1)
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/vt2s5Tk.png",Phoenix (Opt-2)
-http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
-
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/vt2s5Tk.png",Phoenix Hong Kong
-http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/G5KYULo.png" tvg-id="47" group-title="China" ,Phoenix Hong Kong http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
