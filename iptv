@@ -1,6 +1,6 @@
 #EXTM3U
 
-########################## LOKAL ##########################
+########################## LOKAL ########################
 
 http://iptvtree.net:8080/F14995/a84c0963/264778
 #EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="Siaran",Crime+ Investigation
@@ -212,67 +212,24 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-id="DragonTVInternational.cn",Dragon TV International (360p)
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 
-#EXTINF:-1 tvg-id="",BesTV超级 (576p)
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 #EXTINF:-1 tvg-id="BreadTV.cn",Bread TV面包台 (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
-#EXTINF:-1 tvg-id="CETV1.cn",CETV1 (576p)
-http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
-#EXTINF:-1 tvg-id="CETV2.cn",CETV2 (576p)
-http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
-http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1 tvg-id="",NewTV搏击 (720p)
-
-http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-id="",SDETV (576p)
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
-#EXTINF:-1 tvg-id="",SiTV七彩戏剧 (540p) [Not 24/7]
-http://112.25.48.68/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="",SiTV东方财经 (540p) [Not 24/7]
-http://112.25.48.68/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="TVS2.cn",TVS2 (576p)
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
-#EXTINF:-1 tvg-id="XingKongInternational.cn",Xing Kong International (360p)
-http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 tvg-id="",万州三峡移民 (576p) [Not 24/7]
 http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="",万州影视 (576p) [Not 24/7]
-http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="",万州科教 (576p)
-http://123.146.162.24:8013/tslslive/URetCnP/hls/live_sd.m3u8
+
 #EXTINF:-1 tvg-id="",万州综合 (576p) [Not 24/7]
 http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="",三明公共 (720p) [Not 24/7]
-https://stream.smntv.cn/smtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="",三明新闻综合 (720p) [Not 24/7]
-https://stream.smntv.cn/smtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="",上海卫视 (576p)
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225856/index.m3u8
-#EXTINF:-1 tvg-id="",上海教育 (540p) [Not 24/7]
-http://112.25.48.68/live/program/live/setv/1300000/mnf.m3u8
 
-#EXTINF:-1 tvg-id="",上海金山电视台 (270p)
-https://live.mudu.tv/watch/4zbn2f.m3u8
 #EXTINF:-1 tvg-id="",上虞1新闻综合 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+
 #EXTINF:-1 tvg-id="",上虞3新商都 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-id="",上虞經濟文化 (720p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-http://223.110.254.205:6610/cntv/live1/n-dongnanstv/n-dongnanstv/1.m3u8
-#EXTINF:-1 tvg-id="",东南卫视 (576p)
-http://183.207.249.15/PLTV/4/224/3221225816/index.m3u8
-#EXTINF:-1 tvg-id="",东南卫视 (360p)
-http://125.210.152.18:9090/live/DNWSHD_H265.m3u8
-#EXTINF:-1 tvg-id="",东乡电视台
-http://117.156.28.119/270000001111/1110000131/index.m3u8
-#EXTINF:-1 tvg-id="",东至影视 (576p) [Not 24/7]
-http://223.247.33.124:1935/live/yingshi/playlist.m3u8
-#EXTINF:-1 tvg-id="",东至文化资讯 (576p) [Not 24/7]
-http://223.247.33.124:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 tvg-id="",东至新闻综合 (720p) [Not 24/7]
-http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="",中国交通 (576p)
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 #EXTINF:-1 tvg-id="",中国交通 (576p)
