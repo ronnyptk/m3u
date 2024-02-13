@@ -2,6 +2,11 @@
 
 ########################## LOKAL ########################
 
+#EXTINF:-1,Suluk® group-title="Siaran" → V CHANNEL
+http://lihattv.com/?play=43419
+#EXTINF:-1,Suluk® group-title="Siaran" → THRILL
+http://lihattv.com/?play=43415
+
 http://iptvtree.net:8080/F14995/a84c0963/264778
 #EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="Siaran",Crime+ Investigation
 http://iptvtree.net:8080/F14995/a84c0963/165052
