@@ -2,6 +2,17 @@
 
 ########################## LOKAL ########################
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="Siaran",Discovery Asia
+http://tvku.live:8888/aris7812/3des18ars/779
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png" group-title="Siaran",Discovery Channel
+http://tvku.live:8888/aris7812/3des18ars/3617
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="Siaran",Nat Geo People
+http://tvku.live:8888/aris7812/3des18ars/3621
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Siaran",Nat Geo Wild
+http://tvku.live:8888/aris7812/3des18ars/3620
 
 http://iptvtree.net:8080/F14995/a84c0963/264778
 #EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="Siaran",Crime+ Investigation
