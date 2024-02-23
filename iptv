@@ -20,7 +20,7 @@ http://iptvtree.net:8080/F14995/a84c0963/165105
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="Siaran",beIN Sports 3
 http://iptvtree.net:8080/F14995/a84c0963/298506
 
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Siaran",ANIMAL PLANET
+#EXTINF:-1 tvg-id="1" tvg-name="Animal Planet" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Siaran",ANIMAL PLANET
 http://iptvtree.net:8080/F14995/a84c0963/157532
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
