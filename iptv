@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://jpmtelevisi.com/img/pontianak.png" group-title="Siaran",Mentari TV
-https://www.vidio.com/live/8237-mentari-tv
+https://app-etslive-2.vidio.com/live/8237/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://jpmtelevisi.com/img/pontianak.png" group-title="Siaran",PON TV Pontianak
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
