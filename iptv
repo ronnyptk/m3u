@@ -1,13 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TW" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="General",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播交通委員會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播內政委員會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播司法及法制委員會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播外交及國防委員會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播教育及文化委員會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播朝野協商
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播社會福利及衛生環境委員會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播經濟委員會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播財政委員會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Legislative",立法院IVOD直播院會
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="Undefined",澳视葡文
-http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:-1 tvg-id="HK" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="Entertainment",TVB Jade
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="HK" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="Undefined",HKIBC
-https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?checkedby:iptvcat.com
 
 
 
