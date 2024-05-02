@@ -2,6 +2,57 @@
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_useesport_small.png",UseeSportsrtp://@239.1.1.101:8580
+
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_useesport_small.png",UseeSportsrtp://@239.1.2.203:9180
+
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_useesports2_small.png",UseeSports2rtp://@239.1.1.53:8292
+
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_useesports2_small.png",UseeSports2rtp://@239.1.2.205:9186
+
+
+
+
+
+#EXTINF:-1 group-title="1"
+tvg-logo="https://www.useetv.com/pimages/logo_bein1_small1.png",beIN Sports 1rtp://@239.1.1.217:9204
+
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_bein1_small1.png",beIN Sports 1rtp://@239.1.1.248:9494
+
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_bein3_small1.png",beIN Sports 3rtp://@239.1.1.221:9300
+
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_bein3_small1.png",beIN Sports 3rtp://@239.1.1.249:9496
+
+
+
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="1",Mentari TV (720p) 
+https://app-etslive-2.vidio.com/live/8237/master.m3u8
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_mentaritv_small.png",Mentari TVrtp://@239.1.4.104:1234
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_mentaritv_small.png",Mentari TVrtp://@239.1.3.227:1234
+
+
+
+
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_tvbsnews_small.png",TVBS Newsrtp://@239.1.2.118:9410
+#EXTINF:-1 group-title="1" 
+tvg-logo="https://www.useetv.com/pimages/logo_tvbsnews_small.png",TVBS Newsrtp://@239.1.4.127:1234
+
+
+
 <========================= Taiwan ====================================>
 
 http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
