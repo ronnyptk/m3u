@@ -177,6 +177,23 @@ https://testfunctionlive.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 
+<========================= MENTARI ====================================>
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="Indonesia Channels", MENTARI TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="Indonesia Channels", MENTARI TV
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
+
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="Indonesia Channels", MENTARI TV
+http://iptvtree.net:8080/c4596f70/c3848d92/298546
+
+
+
+
 <========================= Metro ====================================>
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
