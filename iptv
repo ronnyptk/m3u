@@ -175,27 +175,3 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celestia
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 
-
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",Shenzen TV (F*)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="INTERNATIONAL TV", Shenzen (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
-
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://i.imgur.com/XOL1Hph.png",Zhejiang TV (F*)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="INTERNATIONAL TV",Zhejiang (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
-
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",TVB Asia (F*)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
-
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",TVB News (F*)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index.m3u8
-
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",TVB Xinghe (F*)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8
-
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="INTERNATIONAL TV",TVB Jade
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
