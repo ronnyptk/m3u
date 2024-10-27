@@ -3,6 +3,8 @@
 
 ++++++++++++++++++++INDONESIA++++++++++++++++++++
 
+#EXTINF:-1 group-title="Indonesia" tvg-id="mentaritv.id" tvg-logo="https://i.postimg.cc/pTypkfGy/mentari.png",MENTARI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/antv.png", ANTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
